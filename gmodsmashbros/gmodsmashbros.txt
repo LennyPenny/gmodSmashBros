@@ -1,0 +1,6 @@
+"gmodsmashbros"
+{
+	"base"		"base"
+	"title"		"Gmod Smash Brothers"
+	"menusystem"	"1"
+}
